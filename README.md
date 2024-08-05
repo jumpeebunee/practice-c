@@ -1,1 +1,1 @@
-# practice-c
+# C-Practice
